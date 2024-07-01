@@ -8,7 +8,7 @@ public class Student {
     private String address;
 
     // Public constructor
-    public Student(String name, int age, String studentId) {
+    public Student(String name, int age, String studentId, String address) {
         this.name = name;
         this.age = age;
         this.studentId = studentId;
